@@ -45,21 +45,7 @@ Idea: Compare Grunt, Gulp, Webpack, Rollup, Browserify
 
 ## Frontend Technologies
 
-Idea: Compare TypeScript, Babel, Flow, Webassembl
-
-Idea: Add Mercury, Inferno, VulcanJS, Preact, Riot, Eve, Ionic (?), Mithril, Meteor
-
-## Frontend Libraries
-
-Idea: Compare Lodash, Underscore, RxJS, (Redux, Apollo, Relay ?), jQuery, Ramda, Immutable.JS
-
-## Frontend Build Tools
-
-Idea: Compare Grunt, Gulp, Webpack, Rollup, Browserify
-
-## Frontend Technologies
-
-Idea: Compare TypeScript, Babel, Flow, Webassembl
+Idea: Compare TypeScript, Babel, Flow, Webassembly
 
 ### License
 
